@@ -12,9 +12,7 @@ Installation
 
 - `make segment`
 
-- To get around CORS issues, make a /etc/hosts entry like so:
-
-    127.0.0.1 goawaycors
+- Put the segment and m3u8 files on S3. Copy the crossdomain.xml file to the bucket, too.
 
 Usage
 -----
