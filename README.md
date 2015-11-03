@@ -21,6 +21,19 @@ Usage
 
 You can then open your browser to goawaycors:8000.
 
+
+Notes
+-----
+
+- Is variable rate playback supported when JWPlayer is playing an HLS stream?
+
+[No.](http://support.jwplayer.com/customer/en/portal/questions/14572311-is-variable-rate-speed-playback-supported-when-playing-jwplayer?new=14572311)
+
+- Is variable rate playback supported in videojs-hls-contrib?
+
+[No.](https://github.com/videojs/videojs-contrib-hls/issues/422)
+
+
 License
 -------
 
